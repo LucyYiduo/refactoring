@@ -1,3 +1,4 @@
+37ed114 Editing code for Task 1.2
 c51d598 Fixed editing code for Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
